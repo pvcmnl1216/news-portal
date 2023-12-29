@@ -1,6 +1,7 @@
 
 import React from 'react';
-import NewsList from './NewsList.js';
+import NewsList from './NewsList.js'
+
 
 function App() {
   return (
